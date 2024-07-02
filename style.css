@@ -4,10 +4,32 @@ text-align: center;
 font-size: 30px;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 text-shadow: 30,30,30 black;
+
 }
-header{
+    
+header  {
     background-color: blueviolet;
+    border-radius: 20px;
 }
 body{
     background-color: cornflowerblue;
+}
+.div{
+    border: 5px solid black;
+    font-size: large;
+    text-align: justify;
+    padding: 20px;
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;   
+    background-color: blueviolet;
+    height: 100px;
+    display:inline-block;
+    position: static;
+}
+#list{
+    color: rgb(252, 252, 250);
+    font-weight: 400;
+    font-size: large;
+    font-family: fantasy;
 }
